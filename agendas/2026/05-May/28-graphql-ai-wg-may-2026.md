@@ -27,10 +27,9 @@
 | Pascal Senn      | @pascalsenn	 | ChilliCream        | Zurich, CH            |
 | Mark Larah       | @magicmark  	 | Yelp               | Austin, TX            |
 | Jeff Auriemma    | @bignimbus    | Apollo             | Monroe, CT, US        |
+| Hugh Nguyen      | @HieuNguyen202| Meta               | Menlo Park, CA, USA   |
 | Michael Rebello  | @rebello95    | Airbnb             | San Diego, CA, USA    |
 | Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
-| Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
-| Stephen Spalding | @fotoetienne  | Netflix            | Chattanooga, TN, US   |
 
 ## Agenda
 
